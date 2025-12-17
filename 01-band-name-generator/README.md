@@ -17,18 +17,13 @@ python src/main.py
 
 ## What I Learned
 
-Writing top-down code using main()
-
-Avoiding duplicated logic with helper functions
-
-Improving user input safety
-
-Structuring small Python projects professionally
+- Writing top-down code using main()
+- Avoiding duplicated logic with helper functions
+- Improving user input safety
+- Structuring small Python projects professionally
 
 ## Future Improvements
 
-Add multiple band name styles
-
-Save generated names to a file
-
-Convert into a web app or API
+- Add multiple band name styles
+- Save generated names to a file
+- Convert into a web app or API
