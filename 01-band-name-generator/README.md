@@ -10,11 +10,11 @@ This project focuses on writing **clean, readable, production-style Python code*
 -Input validation
 -f-Strings
 
-##How to Run
+## How to Run
 ---bash
 python src/main.py
 
-##What I Learned
+## What I Learned
 
 Writing top-down code using main()
 
@@ -24,7 +24,7 @@ Improving user input safety
 
 Structuring small Python projects professionally
 
-##Future Improvements
+## Future Improvements
 
 Add multiple band name styles
 
