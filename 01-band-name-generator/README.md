@@ -11,8 +11,9 @@ This project focuses on writing **clean, readable, production-style Python code*
 - f-Strings
 
 ## How to Run
----bash
+```bash
 python src/main.py
+```
 
 ## What I Learned
 
