@@ -21,3 +21,30 @@ This project focuses on **clean code structure**, **input validation**, and **th
 
 ```bash
 python src/main.py
+```
+
+## How It Works
+
+- User enters:
+- Total bill amount
+- Tip percentage (10, 12, or 15)
+- Number of people to split the bill
+- Program validates all inputs
+- Tip is calculated and added to the bill
+- Final amount is split evenly
+- Amount per person is displayed (2 decimal places)
+
+## What I Learned
+
+- Why user input must always be validated
+- Difference between logical checks (if) and error handling (try / except)
+- How to separate responsibilities using helper functions
+- Why calculations should be done before printing
+- Proper formatting of monetary values using .2f
+
+## Future Improvements
+
+- Allow custom tip percentages
+- Handle currency symbols
+- Add unit tests
+- Convert to a GUI or web app
