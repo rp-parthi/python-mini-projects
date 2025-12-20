@@ -10,7 +10,7 @@ Using best practices
 | Day | Project              | Description                           |
 | --- | -------------------- | ------------------------------------- |
 | 01  | Band Name Generator  | Simple CLI app with clean structure   |
-| 02  | Number Guessing Game | Loops, conditionals, input validation |
+| 02  | tip calculator       | try and exception, input validation   |
 | 03  | Password Generator   | Randomization & security basics       |
 | …   | More coming          | 🚀                                    |
 
