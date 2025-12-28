@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS expenses(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    book_name TEXT NOT NULL,
+    category TEXT NOT NULL,
+    amount REAL NOT NULL,
+    purchase_date DATE DEFAULT CURRENT_DATE
+);
