@@ -10,9 +10,9 @@ Using best practices
 | Day | Project              | Description                           |
 | --- | -------------------- | ------------------------------------- |
 | 01  | Band Name Generator  | Simple CLI app with clean structure   |
-| 02  | tip calculator       | try and exception, input validation   |
-| 03  | Password Generator   | Randomization & security basics       |
-| …   | More coming          | 🚀                                    |
+| 02  | Tip Calculator       | try and exception, input validation   |
+| 03  | Pizza Deliveries     | CLI app with clean input handling     |
+| 04  | Book Expense Tracker | A simple CLI app using SQLite         |
 
 
 ## What I’m Practicing
